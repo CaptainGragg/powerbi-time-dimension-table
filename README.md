@@ -1,1 +1,1 @@
-# powerbi_time_dimension_table
+# powerbi-time-dimension-table
